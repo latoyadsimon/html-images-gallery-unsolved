@@ -1,0 +1,7 @@
+01/10/2025
+I'm at a point where I am trying to run the tests. I don't think its working because the application starts running on port 5552 rather than 5551. I've tried checking to see if I have any other projects that are still running by going to http://localhost:5551/.  It says the site can't be reached and that I can't connect to that local host. My question is how do I connect on 5551 instead of 5552.
+
+Other than not being able to run the tests, I think I have everything correct.
+
+link to github:
+https://github.com/latoyadsimon/html-images-gallery-unsolved
