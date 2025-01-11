@@ -3,5 +3,8 @@ I'm at a point where I am trying to run the tests. I don't think its working bec
 
 Other than not being able to run the tests, I think I have everything correct.
 
+01/11/2025
+After using the command: npx live-server --port=5551, and then opening a second terminal, I was able to run the tests. At first the instructions said to only run that command if you are not working in vscode. Maybe they should say to just run the code anyway. I think my question still stands from above on how to make the Go Live button open on port 5551.
+
 link to github:
 https://github.com/latoyadsimon/html-images-gallery-unsolved
